@@ -5,16 +5,16 @@
 2. Navigate to the directory '/src/main/java'. 
 3. Generate class file by using the command: javac org/example/BullishDrawingProgram.java
 4. Run the command: java org.example.BullishDrawingProgram
-5. Example command sequence: 
-   C 5 5
-   L 0 0 0 3
-   R 1 1 3 3
-   B 4 4 z
-   Q
+5. Example command sequence:
+   * C 5 5
+   * L 0 0 0 3 
+   * R 1 1 3 3 
+   * B 4 4 z 
+   * Q
 
 
 ## Explanation
-I use Both the Junit and groovy spock for unit testing. The groovy spock is the framework I mentioned in our first interview that we currently use it in our projects.
+I use both the Junit and Groovy Spock for unit testing. The Groovy Spock is the framework I mentioned in our first interview that we currently use it in our projects.
 I just want to compare these two testing frameworks and demonstrate how Groovy Spock can provide more organized and clear unit tests.
 In this program, I achieved over 80% test coverage using the Spock framework.
 
