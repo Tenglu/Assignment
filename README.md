@@ -1,4 +1,4 @@
-#Bullish Canvas Program
+## Drawing Program
 
 ## How to Run
 1. Open a terminal or command
@@ -6,11 +6,11 @@
 3. Generate class file by using the command: javac org/example/BullishDrawingProgram.java
 4. Run the command: java org.example.BullishDrawingProgram
 5. Example command sequence: 
-   6. C 5 5
-   7. L 0 0 0 3
-   8. R 1 1 3 3
-   9. B 4 4 z
-   10. Q
+   C 5 5
+   L 0 0 0 3
+   R 1 1 3 3
+   B 4 4 z
+   Q
 
 
 ## Explanation
